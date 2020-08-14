@@ -1,0 +1,24 @@
+.container-background {
+    width: 100%;
+    min-height: 100vh;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+  /*  background: #0000cd;#9053c7;*/
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#4096ee+5,60abf8+20,1166dd+57,1166dd+57 */
+  background: #4096ee; /* Old browsers */
+  background: -moz-linear-gradient(-45deg, #4096ee 5%, #60abf8 20%, #1166dd 57%, #1166dd 57%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(-45deg, #4096ee 5%,#60abf8 20%,#1166dd 57%,#1166dd 57%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(135deg, #4096ee 5%,#60abf8 20%,#1166dd 57%,#1166dd 57%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4096ee', endColorstr='#1166dd',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  
+  }
+  
+  
+  
